@@ -240,4 +240,4 @@ This repository serves as the official landing page for Recuva. The software is 
 **Get the most recent version of Recuva today!**
 
 ---
-**Last updated:** 2026-09-13 17:57:14 UTC
+**Last updated:** 2026-09-13 20:38:58 UTC
